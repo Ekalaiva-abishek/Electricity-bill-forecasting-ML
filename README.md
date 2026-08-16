@@ -50,3 +50,13 @@ Random Forest Regressor
 → Bill Dataset Creation
 → Model Training
 → Future Bill Prediction
+
+## Sample Output
+
+Predicted Next Month Bill: ₹407.45
+
+Estimated Monthly Units: 811.50 kWh
+
+Highest Consumer: Refrigerator
+
+Contribution Percentage: 37%
