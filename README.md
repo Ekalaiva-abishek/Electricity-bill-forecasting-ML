@@ -1,8 +1,3 @@
-# Electricity-bill-forecasting-ML
-AI-Based Household Electricity Bill Forecasting and Energy Consumption Analysis using Random Forest Regression and REFIT Dataset
-
-# AI-Based Household Electricity Bill Forecasting and Energy Consumption Analysis
-
 ## Project Overview
 
 This project predicts future household electricity bills using Machine Learning and the REFIT Electrical Load Measurements Dataset.
