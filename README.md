@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview 
 
 This project predicts future household electricity bills using Machine Learning and the REFIT Electrical Load Measurements Dataset.
 
